@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+model/
+anxiety_model/
+*.safetensors
+*.bin
+*.pt
+*.zip
+*.safetensors
