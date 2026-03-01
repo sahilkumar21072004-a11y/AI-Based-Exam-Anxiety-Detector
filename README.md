@@ -116,8 +116,6 @@ AI-BASED-EXAM-ANXIETY-DETECTOR/
 ## ▶ Running Locally
 
 ### 1️⃣ Start Backend
-
-```bash
 cd backend
 uvicorn main:app --reload
 2️⃣ Start Frontend
@@ -175,6 +173,5 @@ You now have:
 ✔ Full-stack AI system  
 ✔ Professional UI  
 ✔ API backend  
-✔ Deployment ready  
-✔ Portfolio ready  
+✔ Deployment ready  ✔ Portfolio ready  
 ✔ Resume worthy  
